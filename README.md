@@ -1,7 +1,8 @@
 # Text-Inclusive-Image-Captioning
 A machine learning model which gives captions for images including the textual content in the image
+
 ## DATASET
-Flickr30K [Dataset Link](https://www.kaggle.com/datasets/hsankesara/flickr-image-dataset)
+Flickr30K [Dataset Link](https://www.kaggle.com/datasets/hsankesara/flickr-image-dataset)\
 TISUM [Dataset Link](https://drive.google.com/drive/folders/1snhhdH3zMywBmnjYTgJ1XaK33BTjwvlC?usp=sharing)
 
 ## SOFTWARE REQUIREMENTS
